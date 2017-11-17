@@ -10,7 +10,7 @@ Maintainer: Sara Aibar <sara.aibar@kuleuven.vib.be>
 Description: SCENIC workflow
 URL: http://scenic.aertslab.org
 Imports:
-    data.table, mixtools, GENIE3, RcisTarget (>= 0.99.0), AUCell (<= 0.99.5)
+    data.table, mixtools, GENIE3, RcisTarget (>= 0.99.0), AUCell
 Enhances: doMC, doRNG, Cairo
 Suggests:
     GEOquery,
